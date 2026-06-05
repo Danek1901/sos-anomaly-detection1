@@ -43,7 +43,7 @@ sos-anomaly-detection/
 ├── requirements.txt
 ├── run_log.txt
 ├── solution.py
-├── solution_ФИО_ГРУППА.py
+├── solution_Лебедев_Данила_ВячеславовичШЦТ-111.py
 └── output/
     ├── anomalies.csv
     ├── anomaly_reasons.csv
